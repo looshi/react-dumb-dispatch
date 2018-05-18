@@ -14,11 +14,7 @@ class App extends React.Component {
   }
 
   render() {
-    return React.createElement(
-      DumbComponent,
-      { count: store.getState().count },
-      null
-    );
+    return React.createElement(DumbComponent, store.getState(), null);
   }
 }
 
