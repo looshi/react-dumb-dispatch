@@ -2,7 +2,7 @@
 
 ### DEMO:
 
-https://rawgit.com/looshi/react-dumb-dispatch/master/index.html
+https://cdn.rawgit.com/looshi/react-dumb-dispatch/master/index.html
 
 #### Goal:
 
