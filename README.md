@@ -1,5 +1,9 @@
 #### Dispatch actions from dumb components example.
 
+### DEMO:
+
+https://rawgit.com/looshi/react-dumb-dispatch/master/index.html
+
 #### Goal:
 
 Minimize the boilerplate required to get a reference to the Redux store
