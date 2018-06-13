@@ -21,6 +21,8 @@ avoids circular dependencies.
 #### Alternative ways to reference Redux store.dispatch:
 
 * Use the component context (when using the `<Provider />` component).
-* Put the store into a global variable.
-* Passing `dispatch` down as a prop.
+* mapDispatchToProps  ( which is just a shorthand for the above ).
+* Define a global variable and set it to the `store.dispatch` method.
+* Pass `store.dispatch` down as a prop.
+* Use the 16.3 Context Provider/Consumer api.
 * Are there others ?
